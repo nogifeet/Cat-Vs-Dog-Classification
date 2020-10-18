@@ -6,9 +6,9 @@
 ### File Description
 
 1. **Cat - Dog Vgg19 model** Google Collab File With Training/Testing Code
-5. **samplesubmission.csv** sample format for submission.
-6. **test Predictions** contains the final predictions.
-7. **Cat vs Dog Image Classification using VGG-19 Transfer Learning** PPT file with project description.
+2. **samplesubmission.csv** sample format for submission.
+3. **test Predictions** contains the final predictions.
+4. **Cat vs Dog Image Classification using VGG-19 Transfer Learning** PPT file with project description.
 
 ###### For a more detailed explanation refer to Cat vs Dog Image Classification using VGG-19 Transfer Learning
 
